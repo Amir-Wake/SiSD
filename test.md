@@ -1,7 +1,4 @@
-# Test Case Template
-
-#### Test-Id | Date | Expected Result | Actual Result | Corrective Action
-
+# Understand programming languages.
 
 # Tasks
 
